@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5c7348ed702634ae1bed9d24f5df5af0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 332418
+  packageName: TrackerForAll
+  packageVersion: 1.3.3
+  assetPath: Assets/TrackerForAll/Scripts/TrackerPro/Protobuf/Modules/FaceGeometry/EnvGeneratorCalculator.cs
+  uploadId: 862096

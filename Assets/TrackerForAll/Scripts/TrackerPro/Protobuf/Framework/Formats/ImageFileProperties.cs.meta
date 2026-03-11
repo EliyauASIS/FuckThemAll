@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0228463cfe686d54b97cfb6a22bf08b9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 332418
+  packageName: TrackerForAll
+  packageVersion: 1.3.3
+  assetPath: Assets/TrackerForAll/Scripts/TrackerPro/Protobuf/Framework/Formats/ImageFileProperties.cs
+  uploadId: 862096

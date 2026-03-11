@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: cf1c0c41a515dfae985791690002e1fb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 332418
+  packageName: TrackerForAll
+  packageVersion: 1.3.3
+  assetPath: Assets/TrackerForAll/Scripts/TrackerPro/Framework/Packet/NormalizedLandmarkListVectorPacket.cs
+  uploadId: 862096

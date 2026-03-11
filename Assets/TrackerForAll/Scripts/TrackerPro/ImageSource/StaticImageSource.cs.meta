@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bd7955705ab46c72b9124bb116a2dca9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 332418
+  packageName: TrackerForAll
+  packageVersion: 1.3.3
+  assetPath: Assets/TrackerForAll/Scripts/TrackerPro/ImageSource/StaticImageSource.cs
+  uploadId: 862096

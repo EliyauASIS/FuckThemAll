@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2bad97d47c0d4431b8cb378958c3eb60
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 332418
+  packageName: TrackerForAll
+  packageVersion: 1.3.3
+  assetPath: Assets/TrackerForAll/Demo/FullBodyAvatarMocap.unity
+  uploadId: 862096

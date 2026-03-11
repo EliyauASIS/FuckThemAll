@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9cf369502e143ed428fb320c1bf6a612
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 332418
+  packageName: TrackerForAll
+  packageVersion: 1.3.3
+  assetPath: Assets/TrackerForAll/Scripts/TrackerPro/Gpu/GpuBufferFormat.cs
+  uploadId: 862096

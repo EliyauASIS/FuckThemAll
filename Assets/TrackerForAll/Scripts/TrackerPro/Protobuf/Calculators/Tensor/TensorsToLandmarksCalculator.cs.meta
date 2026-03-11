@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: fea323e94e522d3038aae28af9499f4f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 332418
+  packageName: TrackerForAll
+  packageVersion: 1.3.3
+  assetPath: Assets/TrackerForAll/Scripts/TrackerPro/Protobuf/Calculators/Tensor/TensorsToLandmarksCalculator.cs
+  uploadId: 862096

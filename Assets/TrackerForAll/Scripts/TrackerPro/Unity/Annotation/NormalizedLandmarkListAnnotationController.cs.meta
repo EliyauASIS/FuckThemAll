@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: acbf25ab09c7f4115948d7981b6024c0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 332418
+  packageName: TrackerForAll
+  packageVersion: 1.3.3
+  assetPath: Assets/TrackerForAll/Scripts/TrackerPro/Unity/Annotation/NormalizedLandmarkListAnnotationController.cs
+  uploadId: 862096

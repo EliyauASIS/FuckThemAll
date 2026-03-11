@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 95b6d6bd73edd43c38552d0e39e5f700
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 332418
+  packageName: TrackerForAll
+  packageVersion: 1.3.3
+  assetPath: Assets/TrackerForAll/Scripts/TrackerPro/Properties/PublishProfiles/FolderProfile
+    42.pubxml
+  uploadId: 862096

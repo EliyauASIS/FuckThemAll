@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 227b1bd0b120bd104af18a436ed254ec
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 332418
+  packageName: TrackerForAll
+  packageVersion: 1.3.3
+  assetPath: Assets/TrackerForAll/Scripts/TrackerPro/Framework/Packet/NormalizedRectVectorPacket.cs
+  uploadId: 862096

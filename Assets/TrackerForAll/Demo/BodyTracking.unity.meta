@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8077b43357e614eafa55448143178d28
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 332418
+  packageName: TrackerForAll
+  packageVersion: 1.3.3
+  assetPath: Assets/TrackerForAll/Demo/BodyTracking.unity
+  uploadId: 862096

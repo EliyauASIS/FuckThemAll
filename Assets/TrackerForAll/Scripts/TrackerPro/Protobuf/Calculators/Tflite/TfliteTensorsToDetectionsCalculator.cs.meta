@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9f2c19171d3384a4e95e02f1507cd9e1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 332418
+  packageName: TrackerForAll
+  packageVersion: 1.3.3
+  assetPath: Assets/TrackerForAll/Scripts/TrackerPro/Protobuf/Calculators/Tflite/TfliteTensorsToDetectionsCalculator.cs
+  uploadId: 862096

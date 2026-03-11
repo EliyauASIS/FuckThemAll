@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 263876dc23a587949869ee40a64e2988
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 332418
+  packageName: TrackerForAll
+  packageVersion: 1.3.3
+  assetPath: Assets/TrackerForAll/Scripts/TrackerPro/Protobuf/Modules/FaceGeometry/Protos/Mesh3D.cs
+  uploadId: 862096

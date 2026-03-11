@@ -1,0 +1,40 @@
+
+using System.Collections.Generic;
+using UnityEngine;
+
+namespace TrackerPro.Unity
+{
+  public class DetectionListAnnotationController : AnnotationController<DetectionListAnnotation>
+  {
+    [SerializeField, Range(0, 1)] private float _threshold = 0.0f;
+        [HideInInspector]
+    public IList<Detection> _currentTarget;
+
+    public void DrawNow(IList<Detection> target)
+    {
+      _currentTarget = target;
+      SyncNow();
+    }
+
+    public void DrawNow(DetectionList target)
+    {
+      DrawNow(target?.Detection);
+    }
+
+    public void DrawLater(IList<Detection> target)
+    {
+      UpdateCurrentTarget(target, ref _currentTarget);
+    }
+
+    public void DrawLater(DetectionList target)
+    {
+      DrawLater(target?.Detection);
+    }
+
+    protected override void SyncNow()
+    {
+      isStale = false;
+      annotation.Draw(_currentTarget, _threshold);
+    }
+  }
+}

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f0e382e967c8301cfb71c0baf698cb45
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 332418
+  packageName: TrackerForAll
+  packageVersion: 1.3.3
+  assetPath: Assets/TrackerForAll/Scripts/TrackerPro/Unity/CoordinateSystem/ImageCoordinate.cs
+  uploadId: 862096
